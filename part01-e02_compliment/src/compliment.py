@@ -3,7 +3,10 @@
 
 def main():
     # Enter you solution here
+    user_country = input("What country are you from? ")
 
+
+    print(f"I have heard that {user_country} is a beautiful country.")
 
 if __name__ == "__main__":
     main()
